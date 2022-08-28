@@ -33,6 +33,7 @@ body{
    height:50px;
    border-bottom:px solid gray;
    background:#f4f4f4;
+   outline:none;
   }#wrape form p{
    margin-left:0;
   }#wrape form p #loged{
