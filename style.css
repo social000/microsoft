@@ -1,0 +1,75 @@
+body{
+    width:100%;
+    margin:0;
+    padding:0;
+    font-family:Arial,sans-serif;
+   }
+   #container{
+   width:100%;
+   max-width:1000px;
+   margin:0 auto;
+   }
+   
+#wrape{
+  width:100%;
+  max-width:350px;
+  margin:0 auto;
+  }#wrape img{
+   width:150px;
+   border:;
+  }#wrape h1{
+   margin-left:5;
+   font-weight:;
+  }#wrape form{
+   width:;
+   max-width:340px;
+   margin:0 auto;
+   
+  }#wrape form #mail, #pass{
+   width:100%;
+   margin-bottom:10;
+   border:0px;
+   border-radius:5px;
+   height:50px;
+   border-bottom:px solid gray;
+   background:#f4f4f4;
+  }#wrape form p{
+   margin-left:0;
+  }#wrape form p #loged{
+   margin-left:0;
+  }
+   #wrape form p label{
+   margin-left:0;
+   font-weight:lighter;
+   }#wrape form div a{
+    color:royalblue;
+    text-decoration:none;
+   }#wrape form div{
+     display:flex;
+     justify-content:space-between;
+   }#wrape form div button{
+    margin-top:30;
+    height:30px;
+    width:100px;
+    background:#0067B8;
+    color:white;
+    border:0px;
+    margin-top:50;
+   }
+   
+   
+   footer{
+   width:100%;
+   max-width:300px;
+   margin:0 auto;
+   color:#777777;
+   
+   
+   }footer #flexed{
+   display:flex;
+   justify-content:space-between;
+   margin-top:180px;
+   
+   }footer #flexed span{
+   font-size:13px;
+   }
